@@ -1,0 +1,16 @@
+{
+    "name": "hazem/testpackage",
+    "description": "test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hazem Tabbaa",
+            "email": "hazem.tabbaa@srectrade.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Hazem\\TestPackage\\": "src/"}
+    },
+    "require": {}
+}
