@@ -3,6 +3,7 @@
     "description": "test package",
     "type": "library",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Hazem Tabbaa",
