@@ -12,8 +12,5 @@
     ],
     "autoload": {
         "psr-4": {"Hazem\\TestPackage\\": "src"}
-    },
-    "require": {
-        "php": "^7.0"
     }
 }
